@@ -1,0 +1,6 @@
+/target
+/output
+
+*.z64
+*.n64
+*.v64
